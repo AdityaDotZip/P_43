@@ -1,0 +1,36 @@
+NPC and PC
+
+    There will be two PCs and the fruits, the bonus, rotten fruits will be the NPCs.
+
+Story
+
+    You and your friend have gone to shopping during the COVID-19 pandemic. 
+    You and your friend should assure that you only take healthy fruits with you. 
+
+Goal
+
+    Catch only the healthy fruits and not rotten ones, if you catch one you lose.
+
+Rules
+
+   Each fruit should have different points and 
+   sometimes bonus fruits will come which
+   will give extra points and virus will come which 
+   can make you lose the game.
+
+Balance
+
+   As the game gets more difficult the speed increases and also you can get extra life from bonus fruits.
+
+Adaptivity
+
+   Levels.
+
+Chance vs Skill
+
+   There is chance of getting different types of fruits which give different points.
+
+Feedback
+
+    Your Score will be displayed
+    and sound will be played.
